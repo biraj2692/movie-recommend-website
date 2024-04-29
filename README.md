@@ -1,6 +1,6 @@
-# movie-streaming-platform
+# Movie Recommend Website
 
-welcome to project
+Welcome to project
 
 # Getting Started with Create React App
 
